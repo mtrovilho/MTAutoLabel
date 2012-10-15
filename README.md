@@ -7,7 +7,9 @@ Finder service to auto label my movies folder.
 Installation
 ------------
 
-Drop `AutoLabel.workflow` to ~/Library/Services
+- Clone this repository or download the [workflow][download].
+- Copy/Move `AutoLabel.workflow` to ~/Library/Services
+- Done :)
 
 
 Usage
@@ -19,4 +21,8 @@ Control-click the folder(s) > Services > AutoLabel
 License
 -------
 
-[MIT](https://github.com/mtrovilho/MTAutoLabel/blob/master/LICENSE)
+[MIT][license]
+
+
+[download]: https://github.com/downloads/mtrovilho/MTAutoLabel/AutoLabel.workflow.zip
+[license]: https://github.com/mtrovilho/MTAutoLabel/blob/master/LICENSE
